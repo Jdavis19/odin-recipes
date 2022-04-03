@@ -1,0 +1,19 @@
+/* Styles for all recipe pages*/
+
+h1 {
+  color: green;
+
+}
+
+h2 {
+  color: #0000ff;  
+}
+
+body {
+  color: #ff0000;  
+}
+
+img {
+  height: 649px;
+  width: 800px;
+}
